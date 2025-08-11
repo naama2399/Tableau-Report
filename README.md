@@ -1,9 +1,8 @@
 # Gym BI & OLAP Dashboard – Tableau Project
 
 ## Overview
-This project demonstrates a **Business Intelligence (BI)** system using **Tableau** to analyze and visualize gym activity data.  
-The work is based on a database created in a previous assignment and includes **business reports** and an **interactive OLAP tool** to extract actionable insights for gym management, trainers, and analysts.
-
+This project demonstrates a Business Intelligence (BI) system using Tableau to analyze and visualize gym activity data.
+The work includes business reports and an interactive OLAP tool to extract actionable insights for gym management, trainers, and analysts.
 ---
 
 ## Project Content
